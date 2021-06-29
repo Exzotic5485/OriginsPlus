@@ -1,0 +1,12 @@
+{
+    "impact": 3,
+    "unchoosable": false,
+    "name": "NAME",
+    "description": "DESCRIPTION",
+    "icon": "minecraft:ITEMID",
+    "powers": [
+    "origins+:POWERNAME",
+	"origins+:POWERNAME",
+	"origins+:POWERNAME"
+    ]
+}
